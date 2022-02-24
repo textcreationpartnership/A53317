@@ -1,0 +1,420 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. George Oldner's invention to preserve ships from foundering, or sinking, at sea, etc. experimented &amp; approv'd : and now propos'd for the universal good of all nations concern'd in navigation : as appears by the following proposal.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53317</idno>
+            <idno type="STC">Wing O264</idno>
+            <idno type="STC">ESTC R5476</idno>
+            <idno type="EEBO-CITATION">13489043</idno>
+            <idno type="OCLC">ocm 13489043</idno>
+            <idno type="VID">99735</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53317)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99735)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 469:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. George Oldner's invention to preserve ships from foundering, or sinking, at sea, etc. experimented &amp; approv'd : and now propos'd for the universal good of all nations concern'd in navigation : as appears by the following proposal.</title>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F. Collins ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698 ; and are to be had gratis.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oldner, George.</term>
+               <term>Ships --  Safety regulations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99735:1"/>
+            <pb facs="tcp:99735:1" rendition="simple:additions"/>
+            <p>Mr. <hi>George Oldner</hi>'s INVENTION TO Preſerve SHIPS FROM Foundering, or Sinking, at Sea, <hi>&amp;c. <hi>Experimented</hi>
+               </hi> &amp; <hi>Approv'd,</hi> And Now Propos'd for the Univerſal Good of <hi>All Nations concern'd in Navigation.</hi> As appears by the following PROPOSAL.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>F. Collins,</hi> in the <hi>Old-Baily,</hi> 1698.</p>
+            <p>And are to be had, <hi>gratis,</hi> at Mr. <hi>George Oldner</hi>'s in <hi>Thames-street</hi> near <hi>Trigg<g ref="char:EOLhyphen"/>stairs,</hi> and at Mr. <hi>Andrew Prime</hi>'s, (the Patentees) at the <hi>Red Bull</hi> in <hi>Budge<g ref="char:EOLhyphen"/>row;</hi> and at <hi>Robin</hi>'s Coffee-houſe in <hi>Exchange-Alley, London.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="value_of_invention">
+            <pb facs="tcp:99735:2"/>
+            <pb n="1" facs="tcp:99735:2"/>
+            <head>
+               <hi>Shipping Preſerv'd</hi> FROM <hi>Foundering, or Sinking, at Sea,</hi> OR, IN Bays, Harbours, Rivers, <hi>or</hi> Creeks, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>BY an</hi> INVENTION, <hi>which has been Experimented and Ap<g ref="char:EOLhyphen"/>prov'd, as appears by the Certificate inſerted in the following Propoſal, under the Hands of ſeveral Merchants of Great Note, Worth, and Eminency in the City of</hi> London,
+<note place="margin">The Invention experimented by Perſons of Note, and the Advantages thereof.</note> 
+               <hi>who are themſelves conſiderable Owners in, and Builders of, many Ships and Veſſels; as alſo of ſeveral Commanders of Ships, being Men of great and long Experience, Skill, and Judgment in the Nature and Building thereof, for many Years; to be a real, practicable, and neceſſary Contrivance, greatly wanted in all Ages paſt, and now attain'd to, by Mr.</hi> George Oldner, <hi>of</hi> London, <hi>Merchant: By which ſaid Invention Ship<g ref="char:EOLhyphen"/>ping, Merchandiſe, and Mens Lives, will certainly and effectually be preſerved, far better than by any Method that has hitherto been known, from all Dangers occaſion'd by ſuch Accidents and Defects as are particularly, and at large, ſet forth in the following Propoſal,</hi> viz.</p>
+            <p>WHEREAS His Majeſty has been graciouſly pleas'd to grant his Royal Letters Patents to <hi>George Oldner</hi> and <hi>Andrew Prime,</hi> of <hi>London,</hi> Merchants;
+<note place="margin">The Preamble of the Patent obtain'd.</note> for the ſole Uſe and Benefit of an Invention or Contrivance applicable to <hi>Shipping</hi> of all ſorts, alrea<g ref="char:EOLhyphen"/>dy built, or hereafter to be built, as well His Majeſty's Navy Royal as all other Trading Ships and Veſſels;
+<note place="margin">The Invention attain'd applicable to Ships already built, as here<g ref="char:EOLhyphen"/>after to be built. The Be<g ref="char:EOLhyphen"/>nefit and Cer<g ref="char:EOLhyphen"/>tainty thereof.</note> which the ſaid <hi>George Oldner,</hi> by many Years Experience in Shipping, long and mature Conſideration, and large Expence of Time and Money, hath now perfectly attain'd unto; by the benefit whereof all ſorts of Ships and Veſſels ſo fortified, will with all the Certainty imaginable, be effectually preſerv'd from <hi>Foundering or Sinking at Sea, &amp;c.</hi> occaſion'd,</p>
+            <p n="1">1st, By <hi>Worm-holes,</hi> want of good Cawking,
+<note place="margin">The <g ref="char:V">Ʋ</g>ſe of the Invention at large particu<g ref="char:EOLhyphen"/>lariz'd.</note> or decay of Cawk<g ref="char:EOLhyphen"/>ing, decay of Bolts, Trunnels, or Planks.</p>
+            <p>Or, the ſpringing or ſtarting of Planks, or the Butts of Planks, or of Hudd-ends, <hi>&amp;c.</hi> which frequently happens by Ships labou<g ref="char:EOLhyphen"/>ring in the Sea.</p>
+            <p n="2">2dly, By any ſort of <hi>Leaks,</hi>
+               <note place="margin">Ships preſerv'd from ſinking by any ſort of Leaks, <hi>&amp;c.</hi> and the ſame diſco<g ref="char:EOLhyphen"/>ver'd and men<g ref="char:EOLhyphen"/>ded, and the Ships ſtronger.</note> which would otherwiſe immediate<g ref="char:EOLhyphen"/>ly ſink them, notwithſtanding the extream continual Labour and Help of Men and Pumps, as is now done, tho' often in vain, lit<g ref="char:EOLhyphen"/>tle of either being here requir'd to enable them, at leaſt, to keep the Sea till they can make ſome Port or Harbour: Which <hi>Leaks,</hi>
+               <pb n="2" facs="tcp:99735:3"/>to all Ships and Veſſels ſo common and fatal, by this Invention will, with but very little Care, common Skill, and moderate La<g ref="char:EOLhyphen"/>bour, be effectually prevented, or eaſily diſcover'd and mended. The Ships alſo, by the ſame, will be more tight and ſtrong, to endure all Storms or Accidents that they are liable unto.</p>
+            <p n="3">3dly, By means of this <hi>Invention,</hi> Ships and Veſſels being pre<g ref="char:EOLhyphen"/>ſerved,
+<note place="margin">Mens Lives, Goods, <hi>&amp;c.</hi> pre<g ref="char:EOLhyphen"/>ſerv'd from damage by Wa<g ref="char:EOLhyphen"/>ter, and His Majesty's Cu<g ref="char:EOLhyphen"/>ſtomsencreas'd.</note> as aforeſaid, not only the Lives of the Seamen and Paſ<g ref="char:EOLhyphen"/>ſengers are likewiſe at the ſame time ſaved, but the Stores, Provi<g ref="char:EOLhyphen"/>ſions, Ammunition, Goods and Merchandiſe are for the moſt part ſecur'd from Damage, the prevention of which will greatly aug<g ref="char:EOLhyphen"/>ment His Majeſty's Cuſtoms; which Damages otherwiſe unavoi<g ref="char:EOLhyphen"/>dably accrue, by Water entring ſuch Ships or Veſſels.</p>
+            <p n="4">4thly, The many Diſtempers and Contagions which <hi>Seamen</hi> and <hi>Paſſengers</hi> are incident to in long and tedious Voyages, and more eſpecially in hot Countries,
+<note place="margin">The Diſtempers and Evils oc<g ref="char:EOLhyphen"/>caſion'd by the Bilge-water, (as is the Opi<g ref="char:EOLhyphen"/>nions of Naval Surgeons) pre<g ref="char:EOLhyphen"/>vented by the Ships being perfectly freed from the ſaid Bilge-water.</note> oftentimes occaſioning ſo great a Sickneſs and Mortality, that there are ſcarcely Hands left to bring home the Ship, by reaſon of the Putrifaction and poyſonous ſtench of the Bilge-water, whoſe ſubtle and ſecret Infection is the prime and general Cauſe thereof, according to the <hi>Opinions</hi> and <hi>Judgments</hi> of ſeveral eminent Naval Chyrurgeons; as appears by a printed Paper lately produc'd to the Parliament, tho' the Men on board may not diſcern it: Which common and fatal Evil will by this means be certainly and eaſily prevented, by free<g ref="char:EOLhyphen"/>ing all ſuch Ships and Veſſels from the ſaid Bilge-water, and keeping them perfectly ſweet and clean: The Advantages and unſpeakable Benefits of which, further appears in a True Copy of the ſaid printed Paper, which is as followeth, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>THESE are to Certifie whom it may concern,
+<note place="margin">An exact Copy of the ſaid Sur<g ref="char:EOLhyphen"/>geons Certifi<g ref="char:EOLhyphen"/>cate.</note> That we whoſe Names are under-written, are very well aſſur'd, that the odious Stench in Ships, ariſing from the Bilge-water, is not only pernicious and deſtructive to the Health of the Men, eſpecially in Hot Countries and long Voyages, but oftentimes produces Contagious Diſtempers, to the Ruin of many Mens Lives on Shipboard. Whereupon, we do verily believe, That an Invention capable of effectually preventing or purifying the ſame, will not only be of Singular Advantage to His Ma<g ref="char:EOLhyphen"/>jeſty and the Merchants, but an <g ref="char:V">Ʋ</g>nſpeakable and <g ref="char:V">Ʋ</g>niverſal Benefit to all concern'd in Sea-affairs.</hi>
+            </p>
+            <list>
+               <head>Atteſted by <g ref="char:V">Ʋ</g>s, Naval-Surgeons,</head>
+               <item>James Waſſe,</item>
+               <item>John Kent,</item>
+               <item>Archibald Arthur,</item>
+               <item>Hen. Batchelor,</item>
+               <item>Edward Tanner,</item>
+               <item>Chr. Robinſon,</item>
+               <item>Rich. Griffis,</item>
+               <item>Richard Boare,</item>
+               <item>Alex. Innes,</item>
+               <item>William Douglas,</item>
+               <item>Gerrard St. Clare,</item>
+               <item>Tho. Vigures,</item>
+               <item>John Gill,</item>
+               <item>James Lauther,</item>
+               <item>Rich. Springall,</item>
+               <item>P. Heart,</item>
+               <item>Alex. Kilpatrick,</item>
+               <item>W. Angus,</item>
+               <item>Robert Forbes,</item>
+               <item>Si. Aſhton,</item>
+               <item>J. Cloake,</item>
+               <item>And. Martin,</item>
+               <item>Tho. Tuker,</item>
+               <item>Chr. Brown,</item>
+               <item>J. Boinough,</item>
+               <item>Cary Rocheſter,</item>
+               <item>Will. Lake,</item>
+               <item>Jn<hi rend="sup">o</hi> Tomkins,</item>
+               <item>Hugh Munro,</item>
+               <item>Jn<hi rend="sup">o</hi> Cholmeley.</item>
+            </list>
+            <p n="5">
+               <pb n="3" facs="tcp:99735:3"/>
+5thly, By Damage occaſion'd to Shipping by great Shot,
+<note place="margin">Ships better preſerv'd from Damages by great Shot or by ſtriking upon Sands, &amp;c.</note> or by their ſtriking or running upon Shoals or Sands (unleſs at once broke to pieces) from which Damages they will be more effectual<g ref="char:EOLhyphen"/>ly preſerv'd, than by any means hitherto known; or, at leaſt-wiſe, Time may be gain'd for ſaving the Cargo, and the Mens Lives.</p>
+            <p n="6">6thly, By means of this Invention, Water ſhipt from aloft,
+<note place="margin">Water entring the Hold from aloft diſcharg'd, and hidden Leaks diſco<g ref="char:EOLhyphen"/>ver'd and mended.</note> and by that way entring the Hold of the ſaid Ship, wil eaſily and much more effectually be diſcharg'd, than by any means now commonly practis'd or known: And alſo any ſorts of Leaks, which for ma<g ref="char:EOLhyphen"/>ny Voyages have lain hid and undiſcover'd, will readily be found out and mended.</p>
+            <p n="7">7thly, This <hi>Invention</hi> is ſo contriv'd,
+<note place="margin">The convenien<g ref="char:EOLhyphen"/>cy, cheapneſs, and durability of the ſaid In<g ref="char:EOLhyphen"/>vention.</note> that it will take up but very little room, and require very little Labour, not at all hin<g ref="char:EOLhyphen"/>dering the ſailing, nor Stowage of Goods in Ships or Veſſels; not difficult, and but of ſmall charge to be done;
+<note place="margin">Not interfering with the Ship<g ref="char:EOLhyphen"/>wrights, &amp;c. Navigation, <hi>&amp;c</hi> encourag'd to the advantage of all Nations concern'd there<g ref="char:EOLhyphen"/>in.</note> is very du<g ref="char:EOLhyphen"/>rable and laſting, no ways interfering with the Shipwrights or Carpenters, but in many caſes facilitating their Work and Buſi<g ref="char:EOLhyphen"/>neſs. By means whereof Trade and Commerce, Travel and Na<g ref="char:EOLhyphen"/>vigation, will greatly be ſecur'd, enlarg'd, and encourag'd, and thereby become an Univerſal Benefit and Advantage to all <hi>Crowns, Kingdoms,</hi> and <hi>States</hi> concern'd in Navigation, and to all Sea-faring Perſons and Marine Dealings:
+<note place="margin">The deplorable loſs for want of this Invention in Ages paſt and preſent, as to Men, Ships, and Cargo.</note> For want of which <hi>Invention,</hi> what Great Deſigns have miſcarried, what Immenſe Riches has the Sea ſwallow'd, and how many great and ex<g ref="char:EOLhyphen"/>cellent Perſons have deplorably periſh'd? What Numbers of the King's Ships, of the <hi>East-India, African, Levant,</hi> and other Companies; beſides great numbers of other rich Trading-Ships and Veſſels have been loſt within theſe few Years paſt, together with the vaſt number of Men which have miſerably loſt their Lives in the ſame, many of which might certainly have been preſerv'd, had this <hi>Invention</hi> been then in practice; ſeveral re<g ref="char:EOLhyphen"/>markable Inſtances of which kind might be enumerated, but ſuch fatal Accidents being but too well <hi>known</hi> to moſt People, would here be too tedious and large to recite.</p>
+            <p>In conſideration whereof,
+<note place="margin">The Motives to the Patentees for putting the ſame in practice</note> the ſaid <hi>George Oldner</hi> and <hi>Andrew Prime,</hi> for the more effectual and ſpeedy putting in practice and carrying on the ſaid <hi>Invention,</hi> of ſo extenſive and univerſal a Good and Benefit to all Mankind, have already begun and made their Application to,
+<note place="margin">Their Treaty already begun with ſeveral Nations.</note> and Treaty with His preſent Majeſty and the Admiralty; as alſo to the Court of <hi>France,</hi> and States of <hi>Holland;</hi> which latter have ſince ſent for the ſaid <hi>George Oldner,</hi> he offering to go (to receive a <hi>Conditional Reward</hi> upon his per<g ref="char:EOLhyphen"/>forming and making good what is here propos'd) and return in a Ship thus fortified, having ſuch a Breach,
+<note place="margin">
+                  <hi>The States of</hi> Holland<hi>'s In<g ref="char:EOLhyphen"/>vitation to the Inventor, and his Offer to the States.</hi>
+               </note> that Twenty of the beſt-known Pumps, tho' manag'd with as many Hands as can work them, ſhall not be able to ſave the Ship four or five hours together from <hi>ſinking;</hi> which yet by this <hi>Invention</hi> ſhall be done with the uſe but of two Pumps, ſtanding in as little room,
+<note place="margin">The perfor<g ref="char:EOLhyphen"/>mance of the ſaid Invention.</note> and requiring as little ſtrength, as thoſe now generally us'd. And the ſaid <hi>George Oldner</hi> alſo offers, as a further confirma<g ref="char:EOLhyphen"/>tion thereof,
+<note place="margin">The Inventor's further Offer for confirma<g ref="char:EOLhyphen"/>tion.</note> That a Ship of two or three hundred Tun having great and dangerous Leaks and Breaches, yet by being thus for<g ref="char:EOLhyphen"/>tified, may with ſafety to the <hi>Ship, Men,</hi> and <hi>Cargo,</hi> make a Voyage to and from the <hi>Eaſt</hi> or <hi>Weſt-Indies, &amp;c.</hi> ſecur'd from Da<g ref="char:EOLhyphen"/>mages by ſuch Leaks or Breaches, and the other Accidents, Dan<g ref="char:EOLhyphen"/>gers, and Defects before mention'd.</p>
+            <p>
+               <pb n="4" facs="tcp:99735:4"/>
+And they the ſaid <hi>George Oldner</hi> and <hi>Andrew Prime</hi> do alſo deſign and reſolve,
+<note place="margin">
+                  <hi>The Patentees further Deſign to extend the ſame to all Na<g ref="char:EOLhyphen"/>tions in</hi> Eu<g ref="char:EOLhyphen"/>rope.</note> that the ſaid <hi>Invention</hi> ſhall be further ex<g ref="char:EOLhyphen"/>tended, by due and proper management, not only to the <hi>Crowns, Kingdoms,</hi> and <hi>States</hi> of <hi>Europe</hi> afore-mention'd, but alſo to <hi>Scotland, Ireland,</hi> and <hi>Spain,</hi> and all other parts of the World intereſted and concern'd in Naval Affairs. And the more to fa<g ref="char:EOLhyphen"/>cilitate,
+<note place="margin">
+                  <hi>In order to which, the ſaid Invention is di<g ref="char:EOLhyphen"/>vided into</hi> 6000 <hi>Parts or Shares.</hi>
+               </note> and the better to enable them to proceed in the Nego<g ref="char:EOLhyphen"/>tiation thereof, with the greateſt Diſpatch poſſible, they the ſaid <hi>George Oldner</hi> and <hi>Andrew Prime,</hi> by the Advice and Entreaty of ſeveral Friends, have conſented to divide the whole <hi>Concern</hi> and <hi>Invention</hi> into Six thouſand parts or Shares, and to diſpoſe thereof as hereafter is propos'd.</p>
+            <p>And the Nature of the ſaid <hi>Invention</hi> being ſuch, that it can<g ref="char:EOLhyphen"/>not admit of any publick demonſtration,
+<note place="margin">Reaſons why publick demon<g ref="char:EOLhyphen"/>ſtration may not be given.</note> as to the manner how the ſame is perform'd, without diſcloſing the whole Secret; which tho' the Letters Patents oblige all the Subjects of <hi>England</hi> not to practice nor imitate the ſame, without Licenſe from the Patentees, yet other Nations may, without the Conſent of the ſaid Patentees, to the prejudice both of the Nation (our Ship<g ref="char:EOLhyphen"/>ping becoming more chargeable than theirs) and of the Paten<g ref="char:EOLhyphen"/>tees alſo, by their getting that <hi>gratis</hi> for which the Patentees and Proprietors preſume and reaſonably hope to have a Con<g ref="char:EOLhyphen"/>ditional and Suitable Reward for ſo great a Good, as well from Foreign as our Own Government.</p>
+            <p>All which Reaſons and Conſiderations have oblig'd the ſaid Patentees,
+<note place="margin">Inſtead of an offer of a pub<g ref="char:EOLhyphen"/>lick Experi<g ref="char:EOLhyphen"/>ment, a Cer<g ref="char:EOLhyphen"/>tificate an<g ref="char:EOLhyphen"/>nex'd.</note> inſtead of an Offer of a Publick Experiment to annex the following Certificate of the great Univerſal Benefits, Truth, Conveniencies, and Practicableneſs of the ſame under the Hands of ſeveral Perſons of known Worth and Credit, not doubting but that it,
+<note place="margin">The Credit of the Inventor, and Perſons at<g ref="char:EOLhyphen"/>testing the cer<g ref="char:EOLhyphen"/>tainty of the ſaid Invention, not reaſonably to be queſtion'd.</note> together with the ſaid Perſons themſelves atteſting the ſame, may ſuffice to anſwer and ſatisfie all the Scruples, Doubts, and Queſtions of any Ingenious Enquirers, whether Subſcribers or others. The Perſons that have ſign'd the ſaid Certificate, as well as the Patentees themſelves, being Men of known Integrity and Honeſty, as well as Judgment and Skill, in the Affairs of <hi>Shipping;</hi> and being for that end, by the Paten<g ref="char:EOLhyphen"/>tees, upon ſolemn Promiſes and Obligations of Secrecy, ac<g ref="char:EOLhyphen"/>quainted with the whole Matter;
+<note place="margin">An Affidavit of one who ſaw the Experiment of the ſaid In<g ref="char:EOLhyphen"/>vention, which is filed in Chancery; as likewiſe the at<g ref="char:EOLhyphen"/>teſtation of the Builder of the Model.</note> and having alſo ſeen an Ex<g ref="char:EOLhyphen"/>periment of the ſame, as is herein after-mention'd: All which, to the ſame effect, tho' not altogether in the ſame form, the <hi>Sollicitor-General</hi> reports, That an Affidavit was produc'd to him by one (who had depos'd before a <hi>Maſter in Chancery,</hi> where the ſame is filed) that he ſaw the Experiment made in the like manner: And the ſame alſo was ſeen and atteſted by the Buil<g ref="char:EOLhyphen"/>der of the Model, in which the Experiment was made, and like<g ref="char:EOLhyphen"/>wiſe filed in <hi>Chancery,</hi> as aforeſaid.</p>
+            <p>And they the ſaid Patentees do aſſure all whom it may con<g ref="char:EOLhyphen"/>cern,
+<note place="margin">Where a Copy of the Inſtru<g ref="char:EOLhyphen"/>ction to, and Report of the Solicitor-Gene<g ref="char:EOLhyphen"/>ral, and other Papers of note, are to be ſeen, &amp;c.</note> that the Truth hereof is alſo further atteſted, as appears by a Paper containing a Copy of the Inſtructions to, and Re<g ref="char:EOLhyphen"/>port of the <hi>Sollicitor-General,</hi> upon the reference of the Petition from the <hi>Lords Juſtices</hi> in Council, for the Patent; which, with other Papers of note relating to the ſame, are to be ſeen or perus'd by any ſober Perſon at Mr. <hi>Andrew Prime</hi>'s, (one of the Patentees) at the <hi>Red Bull</hi> in <hi>Budge-row, London.</hi>
+            </p>
+            <div type="certificate">
+               <pb n="5" facs="tcp:99735:4"/>
+               <head>
+                  <hi>A True Copy of the</hi> Certificate, <hi>ſign'd by the Perſons before mention'd, who ſaw an Experiment of the ſaid Invention made, as followeth,</hi> viz.</head>
+               <p>
+                  <hi>THIS is to Certifie all whom it may concern,
+<note place="margin">
+                        <hi>Note,</hi> That the ſaid Model was built by a Scale, every Inch repreſen<g ref="char:EOLhyphen"/>ting a Foot, and the whole repreſenting a Ship of about 140 Tuns.</note> That we whoſe Names are hereunto ſubſcrib'd, have ſeen an Experiment of the Invention of Mr.</hi> George Oldner, <hi>for the preventing Ships and Veſſels from</hi> Foundering or Sinking at Sea, <hi>&amp;c. in the Model of a Ship about ſix foot in length, upon the River of</hi> Thames, <hi>where it did float deep loaden, and, without all doubt, would have continued ſwimming for many Months, notwithſtanding two large Breaches which ſhe had on each ſide near the Keel: And had not the ſaid Invention been affixed to the ſaid Model, ſhe muſt and would un<g ref="char:EOLhyphen"/>avoidably have ſunk down in a very few minutes ſpace; and was only preſerv'd from ſinking by the ſaid Invention. Which we being fully convinc'd by the reaſon of the thing, and Demonſtration gi<g ref="char:EOLhyphen"/>ven, find it to be a</hi> Real <hi>and</hi> Ingenious <hi>Contrivance, and, we ſin<g ref="char:EOLhyphen"/>cerely believe, will anſwer what is above propos'd, and be of great <g ref="char:V">Ʋ</g>ſe, Benefit, and Advantage to all Nations intereſted and concern'd in Navigation; and doth therefore very worthily deſerve all due En<g ref="char:EOLhyphen"/>couragement and Eſteem. Witneſs our Hands, in</hi> November, 1698.</p>
+               <list>
+                  <item>
+                     <hi>Sir</hi> William Aſhhurſt, <hi>Knight, and Alderman,
+<note place="margin">☞ Note, Sir William Aſh<g ref="char:EOLhyphen"/>hurſt, <hi>not being well, and the Wind blowing very hard and cold, could not stay to ſee the Model loaden, as the others than did.</hi>
+                        </note> as alſo Member of Parliament for the City of</hi> London.</item>
+                  <item>
+                     <hi>Sir</hi> James Collet, <hi>Knight, late Sheriff of the City of</hi> London.</item>
+                  <item>
+                     <hi>Sir</hi> Thomas Cuddon, <hi>Knight, and Chamberlain of the City of</hi> London.</item>
+                  <item>
+                     <hi>Mr.</hi> Arthur Shallet, <hi>Merchant, Member of Par<g ref="char:EOLhyphen"/>liament for</hi> Weymouth.</item>
+                  <item>
+                     <hi>Mr.</hi> Thomas Lurting, <hi>a</hi> Virginia <hi>Commander, and Surveyor of the building of many Ships.</hi>
+                  </item>
+                  <item>
+                     <hi>Mr.</hi> William Warren, <hi>alſo late Commander, and Surveyor of the building of many Ships.</hi>
+                  </item>
+                  <item>
+                     <hi>Mr.</hi> Richard Haynes, <hi>Merchant.</hi>
+                  </item>
+                  <item>
+                     <hi>Mr.</hi> Thomas Byfeld, <hi>Merchant.</hi>
+                  </item>
+                  <item>
+                     <hi>Mr.</hi> Richard Oldner, <hi>Coal-merchant, who made Affi<g ref="char:EOLhyphen"/>davit of the ſaid Experiment, which is filed in</hi> Chancery.</item>
+                  <item>
+                     <hi>Mr.</hi> John Webb, <hi>Shipwright, and Builder of the ſaid Model, whoſe Solemn Affirmation of the ſaid Experiment is alſo filed in</hi> Chancery.</item>
+                  <item>
+                     <hi>Mr.</hi> George Oldner, <hi>Junior.</hi>
+                  </item>
+               </list>
+               <p>☞ <hi>Note,</hi> That the Hands of many more Perſons skill'd in Shipping might have been obtain'd, had it been thought convenient further to have entruſted the <hi>SECRET;</hi> but the <hi>Testimonies</hi> here given, 'tis preſum'd, will be a ſufficient demonſtration to the World, that the ſaid <hi>Invention</hi> is Real, Practicable, and Neceſſary; as by the many curious and nice <hi>Objections</hi> and <hi>Queries</hi> which were made by the Perſons ſigning hereto, and which were diſtinctly and amply <hi>Anſwer'd</hi> to their entire ſatisfaction; And the ſaid Mr. <hi>Lurting,</hi> and Mr. <hi>Warren,</hi> being ſo throughly convinc'd and confirm'd in the Cer<g ref="char:EOLhyphen"/>tainty of the ſaid <hi>Invention;</hi> that they voluntarily offer to go in a Ship of any burthen, having great and dangerous <hi>Leaks</hi> or <hi>Breaches,</hi> as aforeſaid, (She being provided with this Invention) to the <hi>Streights</hi> or <hi>Weſt-Indies,</hi> &amp;c.</p>
+               <p>
+                  <pb n="6" facs="tcp:99735:5"/>
+Therefore all theſe Advantages, by means of this Invention, accruing in general to the Publick as well as Private Perſons;
+<note place="margin">To obtain Advantages from all Nations, being too great a Work to the preſent Proprie<g ref="char:EOLhyphen"/>tors.</note> and the Work, (to accompliſh the ſame effectually, and to obtain all the Rewards, Encouragements, and Advantages due from all Na<g ref="char:EOLhyphen"/>tions to ſo Great and Certain a Good) being thought too great and too heavy to the ſaid Patentees and the preſent Proprietors; and that their being thus advis'd and perſwaded (as they really are) to offer to diſpoſe of ſo many Parts or Shares of their ſaid <hi>Invention,</hi>
+                  <note place="margin">To take the Aſſiſtance of others, <hi>&amp;c.</hi> no ſinister Ends in them.</note> as in the following Propoſal, (as well to ſtrengthen their Hands with Men as Money, both being eſſential to carry on the ſame with Vigour and Diſpatch, as afore<g ref="char:EOLhyphen"/>ſaid) is hoped cannot be juſtly term'd any Siniſter or Self-ends in them, eſpecially they being Men of known Reputation, In<g ref="char:EOLhyphen"/>tegrity, and Credit, who would not offer to the World either a ſlender or fruitleſs Propoſal.
+<note place="margin">The Invention at firſt hearing, incredible; when known, aſtoniſhing.</note> Tho' at the bare hearing of the Na<g ref="char:EOLhyphen"/>ture, Uſe and Excellency of the ſaid Invention, it may ſeem almoſt incredible for any Perſon to believe, yet when ſeen and under<g ref="char:EOLhyphen"/>ſtood, is immediately admir'd and eſteem'd, even to an Aſtoniſh<g ref="char:EOLhyphen"/>ment and Wonder that the Thought ſhould not have occurr'd for Ages paſt.</p>
+               <p>So then as there need be no further Doubt or Queſtion, but that this <hi>Invention,</hi>
+                  <note place="margin">Real and neceſ<g ref="char:EOLhyphen"/>ſary, therefore will be embra<g ref="char:EOLhyphen"/>ced.</note> as it is real, will therefore be equally embra<g ref="char:EOLhyphen"/>ced and made uſe of in the Shipping of all Nations, ſo it will alſo raiſe large Profits to the <hi>Patentees, Partners,</hi> and <hi>Subſcribers,</hi> it being ſo very beneficial, convenient, and neceſſary; which, beſides the great Advantages already mention'd, there are many more which cannot be publiſh'd at preſent,
+<note place="margin">As likewiſe profitable to all concern'd.</note> without endangering the Secret; but this in ſhort, That Shipping being ſo fortified and ſecured by this <hi>Invention, Inſurance</hi> muſt conſequently be more reaſonable than it now is, and <hi>Inſurers, Owners,</hi> and <hi>Mer<g ref="char:EOLhyphen"/>chants</hi> ſtill greater Gainers; which, among the Profits that ariſe and accrue by means of the great and general Safety of this <hi>Invention,</hi>
+                  <note place="margin">Inſurance thereby made eaſier, and In<g ref="char:EOLhyphen"/>ſurers, Owners, <hi>&amp;c.</hi> greater Gainers.</note> may be deem'd a Conſiderable Article. And as to ſome further Advantages, which may reaſonably ariſe to all that ſhall ſubſcribe or become Partners herein, take the following Scheme.</p>
+            </div>
+            <div type="description_of_profits">
+               <head>A Short View how, and from whence, the ſaid <hi>PROFITS</hi> and <hi>ADVANTAGES</hi> may ariſe, is as followeth, <hi>(viz.)</hi>
+               </head>
+               <p>
+                  <hi>First,</hi>
+                  <note place="margin">Rewards from ſeveral King<g ref="char:EOLhyphen"/>doms and States, &amp;c.</note> FROM His Majeſty of <hi>Great Britain,</hi> and the other Prin<g ref="char:EOLhyphen"/>ces and States, <hi>&amp;c. viz. France, Spain, Portugal, Swede<g ref="char:EOLhyphen"/>land, Denmark,</hi> the Princes of <hi>Italy,</hi> the States of <hi>Holland</hi> and <hi>Venice, Genoua</hi> and <hi>Hamburgh, &amp;c.</hi> It being but reaſonable to hope that a ſuitable and grateful Reward may juſtly be expected and obtain'd, eſpecially ſince it is only propos'd Conditionally to the ſaid ſeveral Governments;
+<note place="margin">Conditional.</note> and the Invention, to admiration, being ſo demonſtrably plain and obvious to all that have ſeen it,
+<note place="margin">The ſevention demonſtrable.</note> and will as certainly be ſo to all who may hereafter ſee the ſame, and beyond peradventure,
+<note place="margin">The Rewards deemed certain.</note> will be ſo effectual in performing, that ſuch Rewards may be therefore juſtly deem'd nothing leſs than a Certainty to all concern'd therein. Not that the Patentees will pre<g ref="char:EOLhyphen"/>ſume
+<pb n="7" facs="tcp:99735:5"/>to aſſign or aſcertain the <hi>Quantum</hi> of ſuch Rewards,
+<note place="margin">
+                     <hi>Tho' the quan<g ref="char:EOLhyphen"/>tum is not aſ<g ref="char:EOLhyphen"/>certain'd, yet is thought may double the pre<g ref="char:EOLhyphen"/>ſent Eſtimate of the whole. At</hi> 10 <hi>l. per Share.</hi>
+                  </note> but the Merit of the Contrivance, being ſuch, that it may be modeſt<g ref="char:EOLhyphen"/>ly thought and expected the ſame will not be leſs, but more than what may double their preſent Eſtimate of the whole at Ten pound <hi>per</hi> Share.</p>
+               <p>
+                  <hi>Secondly,</hi>
+                  <note place="margin">
+                     <hi>From Subjects of</hi> England, <hi>&amp;c. by vertue of the Patent,</hi> &amp;c.</note> From all the Subjects of <hi>England</hi> concern'd in Ship<g ref="char:EOLhyphen"/>ping, as the <hi>Eaſt-India, African, Levant,</hi> and other Companies, as alſo other Merchants and Owners, by vertue of the Powers and Priviledges granted to the Patentees, whereby they may by Agreement with the ſaid ſeveral Companies, Merchants,
+<note place="margin">
+                     <hi>A Quantum</hi> per <hi>Ship or Tun may be well afforded,</hi> &amp;c.</note> and Ship-Owners, <hi>&amp;c.</hi> have reaſonable Recompence annually for di<g ref="char:EOLhyphen"/>recting and fitting their ſeveral Ships and Veſſels, according to this propoſed Invention, either by a Quantum <hi>per</hi> Ship or <hi>per</hi> Tun, <hi>&amp;c.</hi> which the Owners of the Ships and Veſſels, as they may better afford, ſo they will, without all doubt,
+<note place="margin">The Profit great, the Charge ſmall.</note> chearfully and readily pay, the Advantage that accrues hereby being ſo very great and manifeſt, and the Charge thereof but ſmall and inconſiderable.</p>
+               <p>Or otherwiſe upon a due Application to the Parliament,
+<note place="margin">Application to the Parliament</note> to have the Quantum and Time aſcertain'd and confirm'd to the ſaid Patentees and their Partners.</p>
+               <p>The Number of Tunnage of Shipping belonging to <hi>England,</hi>
+                  <note place="margin">
+                     <hi>Tunnage of</hi> En<g ref="char:EOLhyphen"/>gland 500000</note> according to the Computation of Sir <hi>William Petty,</hi> printed in his <hi>Political Arithmetick, Anno</hi> 1691, amounting to Five hundred Thouſand Tuns; which at as reaſonable a rate as the Owners themſelves can fairly deſire or offer, would amount to ſuch a ſufficient Annual Income as the Patentees and their Partners can reaſonably deſire.</p>
+               <p>
+                  <hi>Thirdly,</hi>
+                  <note place="margin">
+                     <hi>Rewards from</hi> Scotland, Ire<g ref="char:EOLhyphen"/>land, &amp;c.</note> Rewards from the ſeveral Merchants and Owners of Shipping in <hi>Scotland, Ireland, New-England, New-York, Penſilvania,</hi> and the other Engliſh Plantations, being as equally to be expected as from any other Kingdoms or States,
+<note place="margin">Another Pa<g ref="char:EOLhyphen"/>tent promis'd.</note> from the latter of which a Promiſe of a Patent, by the Governour, is made to the preſent Patentees.</p>
+               <p>
+                  <hi>Fourthly,</hi> There is alſo great reaſon to hope and expect,
+<note place="margin">
+                     <hi>Rewards from</hi> France <hi>and</hi> Holland <hi>expe<g ref="char:EOLhyphen"/>cted by Privi ledges uſually<g ref="char:EOLhyphen"/>granted.</hi>
+                  </note> that a Conſideration may be obtain'd from <hi>France,</hi> and the States of the <hi>
+                     <g ref="char:V">Ʋ</g>nited Provinces,</hi> not only for their Ships of War, but al<g ref="char:EOLhyphen"/>ſo from their Merchants Ships, by ſuch Powers and Priviledges as are in the like Caſes by them granted according to the Informa<g ref="char:EOLhyphen"/>tions given us.</p>
+               <p>And the like may be fairly expected from the Subjects of other Governments, whether Crowns or States.
+<note place="margin">
+                     <hi>As alſo from other Crowns and States,</hi> &amp;c.</note>
+               </p>
+               <p>The Number of Tunnage of the Dutch Shipping,
+<note place="margin">
+                     <hi>The Tunnage of</hi> Holland 900000.</note> according to the ſaid Computation of Sir <hi>William Petty,</hi> amounting to Nine hundred Thouſand Tuns;
+<note place="margin">
+                     <hi>Of the reſt of</hi> Europe, 600000.</note> and the Tunnage of the reſt of <hi>Europe,</hi> according to the aforeſaid Computation, being Six hun<g ref="char:EOLhyphen"/>dred Thouſand Tuns.</p>
+               <p>
+                  <pb n="8" facs="tcp:99735:6"/>
+And moreover, as a further <hi>Advantage</hi> to the Parties concern'd, Twenty <hi>per Cent.</hi>
+                  <note place="margin">
+                     <hi>A fifth part of the</hi> 4000 <hi>ſhares for a Stock.</hi>
+                  </note> of the Four thouſand Shares, which upon the compleating of the Subſcriptions (hereby intended) will be a Stock of Eight thouſand Pounds, to be left to the management of the Committee mention'd in the following Propoſals, and will be to the Advantage and Benefit of all the Proprietors and Subſcribers, according to their ſeveral Intereſts.</p>
+               <p>The Shares alſo propos'd at 10 <hi>
+                     <abbr>l.</abbr> per</hi> Share,
+<note place="margin">
+                     <hi>The Shares now</hi> bona fide <hi>valu'd at</hi> 20 <abbr>
+                        <hi>l.</hi>
+                     </abbr> per <hi>ſhare, but propos'd at</hi> 10 <hi>
+                        <abbr>l.</abbr> purpoſely to en<g ref="char:EOLhyphen"/>courage Sub<g ref="char:EOLhyphen"/>ſcribers.</hi>
+                  </note> which are by all, or at leaſt moſt that in any meaſure underſtand the Nature of the <hi>Invention,</hi> now really and <hi>bona fide</hi> valued at 20 <hi>
+                     <abbr>l.</abbr> per</hi> Share, and is not doubted but will be ſo, at leaſt, upon the final clo<g ref="char:EOLhyphen"/>ſing of the Books: Which Advantage is deſignedly and pur<g ref="char:EOLhyphen"/>poſely left an Encouragement to all that ſhall become Subſcri<g ref="char:EOLhyphen"/>bers.</p>
+               <p>So that the ſummary View of Profits and Advantages here given,
+<note place="margin">The Profits and Encourage<g ref="char:EOLhyphen"/>ments certain.</note> and the Patentees and Proprietors having already begun to make Treaties, as is before hinted, and there being ſuch an evident Demonſtration of the certainty of the Invention perfor<g ref="char:EOLhyphen"/>ming what is here propos'd, as appears by the Model and Cer<g ref="char:EOLhyphen"/>tificate, and that the Profits will thereby certainly accrue, is thought ſatisfactory enough to remove all Doubts and Queſtions, whe<g ref="char:EOLhyphen"/>ther the ſame will anſwer, as is by them ſet forth and ex<g ref="char:EOLhyphen"/>pected, and be a ſufficient Encouragement to all Perſons that ſhall become Subſcribers or Partners herein.</p>
+               <p>Upon the whole matter it may appear, by the Inſtances and Teſtimonies aforeſaid, that the ſaid <hi>Invention</hi> is Real and Practi<g ref="char:EOLhyphen"/>cable,
+<note place="margin">The Encourage<g ref="char:EOLhyphen"/>ment of the Parliament, and all wiſe and honeſt Men, juſtly expected.</note> the Uſe great, and of univerſal Good and Neceſſity; the Profits certain, both to the Publick, as well as to all that are or ſhall be concern'd therein; the <hi>Patentees</hi> honeſt, and ſincere in their Propoſal; a Conditional Reward from all Go<g ref="char:EOLhyphen"/>vernments and States, <hi>&amp;c.</hi> the Encouragement of the Parliament, as aforeſaid; and laſtly, the unanimous Concurrence of almoſt all Wiſe and Honeſt Men, but juſtly and deſervedly to be ex<g ref="char:EOLhyphen"/>pected, in order to put the ſame into practiſe with all the ſpeed and good management imaginable: And for that end a Sum of Money being needful to be rais'd, it is by the ſaid Patentees Propos'd as followeth.</p>
+            </div>
+         </div>
+         <div type="proposals">
+            <pb n="9" facs="tcp:99735:6"/>
+            <head>THE PROPOSALS For Taking <hi>Subſcriptions to this Invention,</hi> VIZ.</head>
+            <p n="1">I. THE Whole,
+<note place="margin">
+                  <hi>The whole divi<g ref="char:EOLhyphen"/>ded into</hi> 6000 <hi>Shares, as en<g ref="char:EOLhyphen"/>roll'd in</hi> Chan<g ref="char:EOLhyphen"/>cery.</note> according to the Settlement between the Pa<g ref="char:EOLhyphen"/>tentees and preſent Proprietors, as enroll'd in <hi>Chancery,</hi> is divided into Six thouſand Parts or Shares, which are to be di<g ref="char:EOLhyphen"/>ſpos'd of in manner following.</p>
+            <p n="2">II. That Five thouſand Eight hundred of the ſaid Six thouſand Shares ſhall be diſpos'd of by Subſcription, at 10 <hi>
+                  <abbr>l.</abbr> per</hi> Share,
+<note place="margin">
+                  <hi>Whereof</hi> 5800 <hi>to be diſpoſed of by Subſcriptions at</hi> 10 <abbr>l.</abbr> per <hi>Share, and</hi> 200 <hi>in Truſt, as aftermention'd</hi>
+               </note> and the remaining Two hundred Shares ſhall be ſubſcrib'd by the two Patentees, or either of them, without paying down any Money; and to be veſted in the ſaid Patentees, in Truſt, for the Uſes and Purpoſes herein after-mention'd and expreſs'd.</p>
+            <p n="3">III. That the Patentees and preſent Proprietors, or their Aſſigns, ſhall have free Liberty to ſubſcribe any number of the ſaid Five thouſand Eight hundred Shares,
+<note place="margin">
+                  <hi>The preſent Proprietors have liberty to ſubſcribe</hi> 1800 <hi>Shares for their own uſe, with equal Advan<g ref="char:EOLhyphen"/>tages, paying down no Money, and eſteem</hi> 10 <abbr>l.</abbr> per <hi>ſhare not near the real value.</hi>
+               </note> not exceeding Eighteen hundred in the whole, for the proper uſe of the ſaid Patentees and Proprie<g ref="char:EOLhyphen"/>tors, without paying down any Mony, and thereby be as equally en<g ref="char:EOLhyphen"/>tituled to them with all the Benefits and Advantages in this <hi>In<g ref="char:EOLhyphen"/>vention,</hi> as if they had actually paid down Money for the ſame, all of them being reſolv'd to ſubſcribe, at leaſt, each his <hi>Quota</hi> of the ſaid Eighteen hundred Shares, and moſt of them many more, (as not eſteeming 10 <hi>
+                  <abbr>l.</abbr> per</hi> ſhare near the real Value thereof) And therefore do hereby promiſe and declare, that they alſo will retain their ſeveral Quota's of no leſſer a number than Twelve hundred Shares in the whole; and will not ſell nor diſpoſe of any thereof, until the Firſt Day of <hi>January</hi> 1699, unleſs by Advice and Conſent of the majority of the Committee hereafter to be choſen.</p>
+            <p n="4">IV. That the Two hundred Shares veſted in the Patentees in Truſt, as aboveſaid, be diſpos'd of and apply'd to the Uſes fol<g ref="char:EOLhyphen"/>lowing, <hi>(viz.)</hi> One hundred Shares thereof to the ſole uſe, be<g ref="char:EOLhyphen"/>nefit, and advantage of <hi>Greenwich</hi> Hoſpital,
+<note place="margin">100 <hi>Shares,</hi> (1000 <abbr>l.</abbr> 
+                  <hi>value</hi>) <hi>for</hi> Greenwich <hi>Hoſpital.</hi>
+               </note> which at the com<g ref="char:EOLhyphen"/>pleating the Subſcriptions will be equivalent, at leaſt, to One thouſand Pounds in Money. One hundred other Shares of the ſaid Two hundred, be inveſted in the ſaid Mr. <hi>George Oldner ſen.</hi> Mr. <hi>Richard Oldner ſen.</hi> Mr. <hi>Andrew Prime,</hi> Mr. <hi>John Knight,</hi>
+               <note place="margin">100 <hi>more ſhares in Truſt</hi> (1000 <abbr>l.</abbr> 
+                  <hi>in value</hi>) <hi>for the uſe of the Company of Watermen,</hi> &amp;c.</note> and Mr. <hi>George Oldner jun.</hi> their Executors, Adminiſtrators, or Aſ<g ref="char:EOLhyphen"/>ſigns, (as Truſtees) to be applied only for the ſole uſe and benefit of the Company of <hi>Watermen,</hi> for and towards the
+<pb n="10" facs="tcp:99735:7"/>Education of the Children of the Freemen of the ſaid Company, in <hi>Engliſh, Writing,</hi> and <hi>Accompts,</hi> as alſo ſuch parts of the <hi>Mathe<g ref="char:EOLhyphen"/>maticks</hi> as are or ſhall be neceſſary to Navigation; which alſo, at the compleating of the ſaid Subſcriptions, will be equivalent, at leaſt, to One thouſand Pounds in Money.</p>
+            <p n="5">V. That the Books for taking <hi>Subſcriptions</hi> will be laid open on <hi>Monday</hi> the 9th of <hi>January</hi> next,
+<note place="margin">
+                  <hi>When, how long and where the Books are to be open'd for ta<g ref="char:EOLhyphen"/>king Subſcripti<g ref="char:EOLhyphen"/>ons,</hi> &amp;c.</note> at <hi>Robin</hi>'s Coffee-houſe in <hi>Exchange-Alley, London,</hi> from Ten to Two, and from Four to Six a clock, and will be continued open until <hi>Saturday</hi> the 14th <hi>Ditto</hi> incluſive, unleſs the whole Six thouſand ſhares be ſooner ſubſcribed; but if any Shares, at the cloſing of the Books, ſhould be left unſubſcrib'd, then the Books ſhall be open'd again on <hi>Monday</hi> the 6th of <hi>February</hi> following, for compleating the ſaid Subſcriptions.</p>
+            <p n="6">VI. n="1"That Diſpatch being of the higheſt conſequence at this Juncture, to the ſervice of this great Undertaking, in reference to the Applications already made,
+<note place="margin">
+                  <hi>A fourth part of all Money ſubſcribed to be paid down, with</hi> 5 <abbr>s.</abbr> per <hi>ſhare diſcount to ſuch as pay the whole within</hi> 4 <hi>days after ſubſcribing.</hi>
+               </note> and further to be made to the Governments both at home and abroad, and particularly to the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> here; all <hi>Subſcribers</hi> are to pay down to the <hi>Patentees,</hi> or their Caſhier, one Fourth part at the time of <hi>Subſcribing,</hi> and the remaining three Fourths at three ſeveral equal Payments, at every Fourteen Days after <hi>Subſcription,</hi> allowing Five ſhillings <hi>per</hi> ſhare diſcount to ſuch as ſhall pay down the whole at the time of <hi>ſubſcribing,</hi> or within Four Days after.</p>
+            <p>And, That for all and every the ſeveral Payments made of all Money ſo ſubſcribed, Receipts ſigned by the <hi>Patentees,</hi> or their Caſhier, ſhall be given: And when the whole Payments are made,
+<note place="margin">Receipts to be given by the Patentees, <hi>&amp;c.</hi> for Money re<g ref="char:EOLhyphen"/>ceiv'd, and an Inſtrument up<g ref="char:EOLhyphen"/>on payment of the whole.</note> the ſaid Receipts ſhall be delivered back, and an Inſtrument under the Hands of the ſaid Patentees ſhall be duly executed according to Law, and uſual Cuſtom in like Caſes, entituling ſuch perſons to as many Shares as they have <hi>ſubſcribed</hi> and <hi>paid in</hi> their Money for.</p>
+            <p n="7">VII. That Twenty pound <hi>per Cent.</hi> of all Money ſo <hi>ſub<g ref="char:EOLhyphen"/>ſcribed,</hi> and <hi>paid in,</hi> for the ſaid Four thouſand Shares only, be reſerv'd,
+<note place="margin">20 per Cent. <hi>to be reſerv'd a Stock to be ma<g ref="char:EOLhyphen"/>nag'd by the Committee, which upon compleating the Subſcription, will be</hi> 8000 <abbr>l.</abbr>
+               </note> and accounted a Stock to negotiate and carry on all the neceſſary Affairs relating to this <hi>Invention;</hi> which ſaid Stock to be under the care of the Committee hereafter to be choſen, who are to appropriate and diſpoſe of the ſame when and after ſuch manner as they ſhall think moſt reaſonable and convenient, for promoting the general Profit and Succeſs of this Undertaking.</p>
+            <p n="8">VIII. That within One Month after the Books are finally clos'd,
+<note place="margin">
+                  <hi>A Committee to be choſen by a general Mee<g ref="char:EOLhyphen"/>ting, within a month after the final cloſing the Books, of whom Seven to be a</hi> Quorum.</note> of which publick Notice ſhall be given by the Paten<g ref="char:EOLhyphen"/>tees; a Committee not exceeding Twelve in number, the two Patentees included, ſhall be nominated and elected by the Majority of the Proprietors and Subſcribers to that end aſſembled, at a General Meeting: And, That a <hi>Quorum</hi> of the ſaid Committee ſhall conſiſt of any Seven or more of them, which ſaid Committee ſhall have power to manage and tranſact the whole Concern.</p>
+            <p n="9">
+               <pb n="11" facs="tcp:99735:7"/>
+IX. That none be qualified to be of the Committee,
+<note place="margin">Committeemen to hold Ten Shares; or for<g ref="char:EOLhyphen"/>feit their Office.</note> un<g ref="char:EOLhyphen"/>leſs he hold at leaſt Ten Shares, in his own Name and Right: And if any Member of the ſaid Committee ſhall at any time part with ſo many Shares, as not to retain ſuch his <hi>Quota,</hi> he ſhall <hi>ipſo facto</hi> forfeit his Office.</p>
+            <p n="10">X. <note place="margin">
+                  <hi>The two Paten<g ref="char:EOLhyphen"/>tees to be Com<g ref="char:EOLhyphen"/>mittee-men whilſt each holds</hi> 50 <hi>ſhares. All Proprietors</hi> &amp;c. <hi>to have one Vote, none to have more than one Vote.</hi>
+               </note> That the two Patentees retaining Fifty Shares each in his own Name and Right, part of their Quota's of the Twelve hundred Shares, as in the 3d Article, ſhall always be of the ſaid Committee.</p>
+            <p n="11">XI. That every Proprietor and Subſcriber ſhall have One Vote, and none to have more than one Vote, in the Election of the ſaid Committee, which ſhall be Choſen on the Se<g ref="char:EOLhyphen"/>cond <hi>Thurſday</hi> in <hi>January</hi> Yearly, after the Firſt Ele<g ref="char:EOLhyphen"/>ction.</p>
+            <p n="12">XII. That the ſaid Committee ſhall meet as often,
+<note place="margin">An Allowance to be made to the Committee by a general Meeting.</note> and at ſuch Time and Place as they ſhall appoint when elected; And that ſuch Allowance out of the Joynt Stock, as ſhall be made and agreed on by the General Meeting, be equally di<g ref="char:EOLhyphen"/>vided, and paid to ſuch of the ſaid Committee as ſhall at<g ref="char:EOLhyphen"/>tend accordingly.</p>
+            <p n="13">XIII. <note place="margin">The Books made up once a Year, or oftner, for Dividends.</note> That the Books ſhall be made up at leaſt once in every Year, or oftner, if occaſion require; And, that Divi<g ref="char:EOLhyphen"/>dends be made within one Month following, proportiona<g ref="char:EOLhyphen"/>ble to each perſon's number of Shares; And,
+<note place="margin">No Transferrs to be made, but in the Transfer Book.</note> that no Tranſ<g ref="char:EOLhyphen"/>ferrs of any Parts or Shares be made, ſaving in the Book for that purpoſe to be provided, and kept by the ſaid Committee or their Secretary, <hi>&amp;c.</hi>
+            </p>
+            <p n="14">XIV. That at the Requeſt of any Twelve, or more,
+<note place="margin">Twelve or more may ſummon a general Meet<g ref="char:EOLhyphen"/>ing.</note> of the Parties concern'd, whether of the Proprietors, Subſcribers, or both, a General Meeting of all the ſaid Parties concern'd ſhall be call'd and appointed by the ſaid Committee, within Ten Days next after ſuch Demand made,
+<note place="margin">The Demand to be left in Wri<g ref="char:EOLhyphen"/>ting.</note> and left by them in Writing under their Hands with the ſaid Committee, or their Secretary, for the final determination of all Matters which ſhall be laid before them.</p>
+            <p n="15">XV. That all General Meetings may adjourn to ſuch time or times, place or places,
+<note place="margin">The general Meeting may adjourn.</note> within the Cities of <hi>London</hi> or <hi>Weſtminſter,</hi> as they, or the majority of them, ſhall ſee meet: And, that all future Vacancies in the Committee be fill'd up by a New Election, at a General Meeting of the <hi>Pro<g ref="char:EOLhyphen"/>prietors</hi> and <hi>Subſcribers,</hi> with Perſons qualified to be elected, in manner as aforeſaid.</p>
+            <p n="16">XVI. That the <hi>Proprietors</hi> and <hi>Subſcribers,</hi>
+               <note place="margin">Who may Elect.</note> at a General Meeting, may Annually, or oftner, as occaſion requires,
+<note place="margin">
+                  <hi>Three Auditors to examine the Accompts, for a general ſatis<g ref="char:EOLhyphen"/>faction,</hi> &amp;c. <hi>and make them ſuch an Al<g ref="char:EOLhyphen"/>lowance out of the joynt Stock as they think fit,</hi> &amp;c.</note> Chuſe and Appoint Three from among themſelves to be Au<g ref="char:EOLhyphen"/>ditors, at all ſeaſonable Hours to inſpect, examine, and make report of all the Accompts, Books, and Tranſactions of the ſaid Committee, as often as they ſhall ſee cauſe, for the full Satisfaction of All that are or ſhall be concern'd; and that the ſaid Auditors, while ſuch, ſhall receive ſuch Reaſonable Allowance out of the Joynt Stock aforeſaid, as ſhall be appoin<g ref="char:EOLhyphen"/>ted
+<pb n="12" facs="tcp:99735:8"/>by the majority of the <hi>Proprietors</hi> and <hi>Subſcribers</hi> at a Gene<g ref="char:EOLhyphen"/>ral Meeting.</p>
+            <p n="17">XVII. <note place="margin">The Orders of the Committee binding on all.</note> That all Orders of the ſaid Committee ſhall be binding upon all the Parties concern'd, ſubject nevertheleſs at all Times, and in all Caſes, Matters, and Things, to the Senſe, Judgment,
+<note place="margin">But ſubject to the General <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in all <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> Final End, Determination, and Deciſion of a Ge<g ref="char:EOLhyphen"/>neral <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the <hi>Proprietors</hi> and <hi>Subſcribers,</hi> or the majority of them.</p>
+            <p n="18">XVIII. That all Votes be made <hi>per Balott.</hi>
+            </p>
+            <p>☞ Note, <hi>That ſo ſoon as the Subſcriptions are compleated, and the Affairs thereof ſettled at Home,</hi> &amp;c. <hi>that then ſome fit and proper Perſons of the Committee ſhall be appointed, and left in Truſt with the</hi> SECRET, <hi>by the ſaid</hi> George Oldner, <hi>he intending to go as ſoon as requir'd by the ſaid Committee, to the</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, <hi>and</hi> States <hi>of</hi> Holland, <hi>&amp;c. in order to <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and Compleating his Treaties there; it <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> neceſſary to the Advantage of this great <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, that the ſame ſhould be done with all the wiſe and prudent Diſpatch poſſible.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
